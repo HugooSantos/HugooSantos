@@ -3,7 +3,7 @@
   <p>I work as a fullstack developer working with Next.js, API's in php and python lambdas. However I am deeply passionate about backend. Using languages like Javascript (mostly using typescript) with node, Python and PHP to automate processes and making api's. Exploring cloud services and studying about it.</p>
   <div align="center">
     <a href="https://github.com/HugooSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugooSantos&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugooSantos&layout=compact&langs_count=10&theme=midnight-purple"/>
   </div>
   <div style="display: inline_block" align="center"><br>
     <img alt="image-java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
